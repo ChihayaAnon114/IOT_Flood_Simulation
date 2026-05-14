@@ -30,17 +30,3 @@ Status       = 0x00      // 正常
 随机模拟报文->编码->数据链层加入纠错码、成帧传输->接收端解码->对比接收到的报文并对比计算BNR->绘制频率-功率谱密度（已正则化）
 
 日志中包含了接收到的错误报文、编解码过程及其错误原因
-
-控制变量与实验设计你们写报告的拿到代码自己整吧
-
-<img src="C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20260508170903986.png" alt="image-20260508170903986" style="zoom:30%;" />
-
-## 4，运行样图
-
-<img src="C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20260509033912670.png" alt="image-20260509033912670" style="zoom:50%;" />
-
-<img src="C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20260509034017013.png" alt="image-20260509034017013" style="zoom:60%;" />
-
-<img src="C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20260509034055440.png" alt="image-20260509034055440" style="zoom:50%;" />
-
-<img src="C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20260509035002039.png" alt="image-20260509035002039" style="zoom:50%;" />
